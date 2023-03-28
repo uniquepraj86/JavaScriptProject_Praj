@@ -1,0 +1,2434 @@
+@media only screen and (max-width:1199px) {
+	.school_main_tabs .col-md-6 {
+		width: 100%
+	}
+	.school_tabin_div .nav li a {
+		text-align: center
+	}
+	.school_tabin_div .nav li {
+		margin-right: 8px
+	}
+	.navbar_link_set li a {
+		padding: 40px 10px
+	}
+	.service_aria_list {
+		width: 45%
+	}
+	.inner-screen-mob {
+		left: 71px;
+		top: 3px
+	}
+	.navbar-fixed-top .navbar_set .collapse .navbar_link_set li a {
+		padding: 25px 10px
+	}
+	.extra_col_img_info {
+		height: 350px
+	}
+	.owl_serv_prov_slid_new .owl-wrapper-outer {
+		padding-top: 130px
+	}
+	.slid_over_no_back ul li:first-child {
+		display: none
+	}
+	.slid_over_no_back li {
+		width: 33.3%
+	}
+	.slid_over_no_back li::before {
+		width: 39%;
+		right: -1px
+	}
+	.slid_over_no_back li::after {
+		width: 38%
+	}
+	.rid_img_slid img {
+		width: 60px!important;
+		height: 60px
+	}
+	.rides_text_de_info {
+		height: 350px
+	}
+	.our_process_link div h4 {
+		width: 62%
+	}
+	.tak_car_kids_section::after {
+		width: 100%;
+		border-radius: 0
+	}
+	.tak_car_kids_section {
+		margin: 0
+	}
+	.footer_section {
+		padding: 0 0 30px;
+		margin-top: 0
+	}
+	.journals-block__link {
+		margin: 15px 1%
+	}
+	.tab_conetn_custom {
+		margin-top: 40px
+	}
+}
+
+@media only screen and (max-width:1060px) {
+	.navbar_link_set li a {
+		padding: 40px 6px
+	}
+}
+
+@media only screen and (max-width:991px) {
+	.navbar-header,
+	.navbar_link_set,
+	.navbar_link_set li,
+	.navbar_meu_link {
+		width: 100%
+	}
+	.inner-screen-mob img,
+	.key_hi_col_img img,
+	.tab_icon img {
+		object-fit: contain
+	}
+	.navbar_link_set li .dropdown-menu::after {
+		display: none
+	}
+	.navbar_link_set li .dropdown-menu li a {
+		padding: 3px 30px!important
+	}
+	.drop_down_set {
+		top: 0;
+		position: relative;
+		box-shadow: none;
+		border: 0;
+		float: left;
+		width: 100%
+	}
+	.responsive_none {
+		padding: 0
+	}
+	#myNavbar {
+		padding: 0!important
+	}
+	.navbar-fixed-top .navbar_set .collapse .navbar_link_set li a,
+	.navbar_link_set li a {
+		padding: 15px 20px
+	}
+	.navbar-collapse {
+		border-top: 1px solid transparent;
+		box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1)
+	}
+	.navbar-collapse.collapse {
+		display: none!important
+	}
+	.navbar-collapse.collapse.in {
+		display: block!important
+	}
+	.navbar-toggle {
+		display: block;
+		margin-bottom: 0;
+		margin-top: 15px;
+		background-color: #14a6d7;
+		padding: 9px 7px;
+		float: right
+	}
+	.navbar-toggle .icon-bar {
+		background-color: #fff;
+		width: 31px;
+		height: 3px;
+		border-radius: 30px;
+		margin-bottom: 5px
+	}
+	.navbar-toggle .icon-bar:last-child,
+	.section_head_third {
+		margin-bottom: 0
+	}
+	.banner_cont_new {
+		margin-top: 9%
+	}
+	.ready_partner_head h1,
+	.tull_heading_new h2 {
+		font-size: 45px
+	}
+	.tabin_right_side_img {
+		float: left;
+		width: 100%;
+		margin-top: 20px
+	}
+	.schol_heading h2 {
+		font-size: 40px;
+		text-align: center
+	}
+	.common_heading h2,
+	.section_head_third h2 {
+		font-size: 45px
+	}
+	.rides_school_section {
+		padding: 20px 0
+	}
+	.what_is_tulii_setion {
+		padding: 30px 0
+	}
+	.common_section_new {
+		padding: 0 0 15px
+	}
+	.common_section {
+		padding: 20px 0
+	}
+	.on_time_ride {
+		padding-bottom: 15px
+	}
+	.ride_img_width {
+		width: 220px;
+		margin: 0 auto
+	}
+	.count_step_app::after,
+	.count_step_app::before {
+		display: none
+	}
+	.diffr_secti_col .custom_width_point_b:last-child,
+	.diffr_secti_col .custom_width_point_b:nth-child(4) {
+		height: auto;
+		margin-bottom: 0
+	}
+	.custom_width_point_b {
+		width: 30%;
+		height: 150px;
+		margin-bottom: 10px
+	}
+	.banner_cont_new_third {
+		margin-top: 15%
+	}
+	.our_process_link {
+		margin-bottom: 35px
+	}
+	.resp_tulli_extra_section_new {
+		padding: 40px 0!important
+	}
+	.servic_prov_form_head {
+		padding: 0 0 7px
+	}
+	.servic_details_form {
+		padding: 0
+	}
+	.banner_service_form_respo {
+		background-size: cover!important;
+		background-position: center!important;
+		background-repeat: no-repeat;
+		margin-bottom: 230px
+	}
+	.tuli_serv_details_form {
+		z-index: 1;
+		position: relative;
+		margin: 0 20px;
+		border-radius: 4px;
+		top: 65px;
+		float: left;
+		width: auto;
+		height: auto;
+		padding: 15px
+	}
+	.video_data {
+		margin-top: -80px
+	}
+	.video_section {
+		padding-bottom: 100px
+	}
+	.video_heading,
+	.video_list_heading {
+		font-size: 35px
+	}
+	.video_data h2 img {
+		width: 28px
+	}
+	.main_vide_player::after {
+		font-size: 40px;
+		right: -12px
+	}
+	.main_vide_player iframe {
+		padding: 3px;
+		height: 270px
+	}
+	.video_details h2 {
+		font-size: 30px
+	}
+	.video_details h4 {
+		font-size: 15px
+	}
+	.subscrib_btn {
+		font-size: 24px
+	}
+	.video_details p {
+		font-size: 15px
+	}
+	.landing-owner3 .vertical .carousel-inner {
+		float: left;
+		width: 100%;
+		margin-top: 99px;
+		height: 400px
+	}
+	#myCarousel .slide-pic img {
+		left: 92px;
+		width: 250px;
+		object-fit: contain
+	}
+	.our_services_blog .item {
+		margin: 10px
+	}
+	.carousel-caption .virticl_slider_no h3 {
+		top: 5px;
+		left: 30px;
+		font-size: 35px
+	}
+	.landing-owner3 .carousel-caption hr.bot-set.signup-btm {
+		width: 70%!important
+	}
+	.landing-owner3 ol.carousel-indicators {
+		z-index: 1
+	}
+	.inner-screen-mob {
+		left: 113px;
+		width: 212px
+	}
+	.landing-owner3 .carousel-caption {
+		left: 400px;
+		width: 320px
+	}
+	.carousel-caption .virticl_slider_no img {
+		width: 85px
+	}
+	.caption-inner {
+		width: 73%
+	}
+	.landing-owner3 .carousel-caption h2 {
+		font-size: 28px;
+		margin: 8px 0 0
+	}
+	.landing-owner3 .carousel-caption p {
+		margin: 12px 0 0;
+		line-height: 21px;
+		font-size: 15px
+	}
+	.our_partners {
+		padding: 35px 0 70px
+	}
+	.landing-owner3 .carousel-caption hr {
+		left: 71px;
+		top: 43px;
+		border: 1px solid #b9b9b9
+	}
+	.input_box_set_new {
+		margin-bottom: 0
+	}
+	#sign_up_popup .modal-dialog {
+		display: table;
+		margin: 20px auto
+	}
+	.input_forms_set input {
+		height: 40px;
+		font-size: 18px
+	}
+	.android_btn_new,
+	.appl_btn_new {
+		font-size: 19px
+	}
+	.appl_btn_new img {
+		width: 15px
+	}
+	.android_btn_new img {
+		width: 16px;
+		margin-top: 4px
+	}
+	.popups_web_downloads_zone span {
+		font-size: 24px
+	}
+	.popups_web_downloads_zone {
+		margin-top: 5px
+	}
+	.popups_btn img {
+		width: 19px
+	}
+	.pops_or_set {
+		padding: 5px 0
+	}
+	.popups_btn {
+		font-size: 25px
+	}
+	.popups_forms {
+		margin-top: 10px
+	}
+	.popu_web_info_link {
+		font-size: 15px
+	}
+	.popup_heading {
+		margin-bottom: 5px
+	}
+	.popup_heading h4 {
+		font-size: 16px;
+		width: 100%;
+		line-height: 20px
+	}
+	.popup_heading h2 {
+		font-size: 35px
+	}
+	.banner_content h2::after {
+		top: 22px
+	}
+	.banner_cont_new span::after {
+		top: 10px
+	}
+	.cont_us_header h3::after,
+	.que_comp_info h2::after,
+	.section_text h2::after,
+	.texy_l_cont h2::after,
+	.uniq_l_cont h2::after,
+	.wht_tull_cont h2::after {
+		top: 20px
+	}
+	.download_app_section {
+		padding: 70px 0 100px
+	}
+	.down_header h1 {
+		font-size: 45px
+	}
+	.down_header h5 {
+		font-size: 25px
+	}
+	.right_kids_care_btn {
+		width: 100%
+	}
+	.input_box_set_here {
+		margin-bottom: 20px
+	}
+	.input_box_set {
+		margin-bottom: 0
+	}
+	.input_box_set_here textarea {
+		height: 110px!important
+	}
+	.cont_icon,
+	.cont_info,
+	.cont_info_sec {
+		height: 100px
+	}
+	.cont_icon img,
+	.cont_info_sec a p {
+		margin-top: 15px
+	}
+	.cont_info p {
+		margin-top: 0
+	}
+	.input_box_set_here input {
+		height: 45px;
+		font-size: 16px
+	}
+	.contact_us_section {
+		padding: 50px 0 80px
+	}
+	.pric_col {
+		margin-bottom: 115px
+	}
+	.tulli_col_pricing .col-md-4:last-child .pric_col {
+		margin-bottom: 0
+	}
+	.price_circle {
+		height: 160px;
+		width: 160px;
+		padding: 15px
+	}
+	.price_circle h1 {
+		font-size: 40px
+	}
+	.tulli_pricing_section {
+		padding: 40px 0 95px
+	}
+	.banner_new_height_set {
+		height: 280px
+	}
+	.key_hi_img_info h4 {
+		font-size: 24px;
+		letter-spacing: 1px;
+		margin-top: 0
+	}
+	.key_hi_img_info p {
+		font-size: 15px
+	}
+	.key_hi_img_info {
+		height: 250px
+	}
+	.key_hi_col_img {
+		height: 130px;
+		width: 180px;
+		margin-top: -85px
+	}
+	.key_hi_col_img img {
+		margin: 0 auto;
+		width: 86px;
+		height: 86px;
+		object-position: center
+	}
+	.que_comp_btn_grp {
+		margin-top: 0
+	}
+	.safe_info_blogs {
+		margin-bottom: 30px
+	}
+	.panel-safe_cols_grp {
+		margin-bottom: 0
+	}
+	.banner_pricing {
+		margin-top: 50px
+	}
+	.banner_pricing h2,
+	.cont_us_header h3,
+	.service_provide_section h2,
+	.tulli_model_heading h2 {
+		font-size: 45px
+	}
+	.tab_faq_info .resp-vtabs .resp-tabs-list li,
+	.tab_faq_info .resp-vtabs li.resp-tab-active {
+		padding: 15px!important
+	}
+	.new_set_tab_here li {
+		font-size: 21px!important
+	}
+	.pannel_service_set_sec .panel-heading .panel-title .pan_title {
+		font-size: 21px
+	}
+	.center_kid_blog h2,
+	.servi_prov_head h2 {
+		font-size: 45px
+	}
+	.kid_info_blog_nots {
+		padding: 40px 0
+	}
+	.set_info_serv_pro {
+		padding: 35px 15px 20px
+	}
+	.service_pro_section {
+		padding: 40px 0
+	}
+	.servi_prov_head {
+		margin-bottom: 30px
+	}
+	.center_kid_blog {
+		float: left;
+		width: 100%
+	}
+	.banner_section_sec_new_bann {
+		height: 275px!important
+	}
+	.tch_tul_header {
+		margin-bottom: 60px
+	}
+	.tech_info_col .col-md-3:last-child .tech_col_dem,
+	.tech_info_col .col-md-3:nth-child(3) .tech_col_dem {
+		margin-bottom: 0
+	}
+	.tech_col_dem {
+		margin-bottom: 45px
+	}
+	.tech_img_details h4 {
+		font-size: 24px
+	}
+	.tech_img_details p {
+		font-size: 15px
+	}
+	.fi_after::after,
+	.five_after::after,
+	.four_after::after,
+	.sec_after::after,
+	.thir_after::after {
+		height: 35px;
+		width: 35px;
+		font-size: 23px;
+		padding: 6px;
+		left: -7px;
+		top: -4px
+	}
+	.font_si_p {
+		font-size: 15px
+	}
+	.que_comp_info h2,
+	.saf_quant_heading h2,
+	.tch_tul_header h2 {
+		font-size: 45px
+	}
+	.saf_quant_heading {
+		margin-bottom: 25px
+	}
+	.safe_quality_section {
+		padding: 30px 0
+	}
+	.technology_work_section {
+		padding: 40px 0
+	}
+	.pannel_service_set .panel-heading {
+		padding-bottom: 10px
+	}
+	.pan_title {
+		font-size: 24px;
+		margin-left: 40px;
+		padding-bottom: 5px;
+		border-bottom: 1px solid #adadad
+	}
+	.pannel_service_set .panel-heading a {
+		right: 12px;
+		top: 7px
+	}
+	.pannel_service_set .panel-heading a .glyphicon {
+		padding: 3px 8px;
+		width: 30px;
+		height: 30px
+	}
+	.panel_safe_service {
+		width: 100%;
+		float: left
+	}
+	.rides_text_de_info h4 {
+		margin-top: 0;
+		font-size: 21px
+	}
+	.rides_text_de_info {
+		height: 250px
+	}
+	.rid_img_slid img {
+		width: 55px;
+		height: 55px
+	}
+	.rides_text_details {
+		padding: 15px
+	}
+	.owl_multiple_info_text .owl-controls .owl-buttons .owl-next,
+	.owl_multiple_info_text .owl-controls .owl-buttons .owl-prev,
+	.owl_serv_prov_slid_new .owl-controls .owl-buttons .owl-next,
+	.owl_serv_prov_slid_new .owl-controls .owl-buttons .owl-prev {
+		height: 40px;
+		width: 40px
+	}
+	.rid_img_slid {
+		margin-top: 0
+	}
+	.rides_text_de_info p {
+		font-size: 14px!important
+	}
+	.rides_text_de_info a {
+		font-size: 14px
+	}
+	.banner_section_new_here {
+		height: 370px
+	}
+	.tu_extr_cols .col-md-4 {
+		width: 33%
+	}
+	.tu_extr_cols .col-md-4 .extra_col_details {
+		max-width: 100%
+	}
+	.extra_col_img_info {
+		height: 360px
+	}
+	.extr_col_img img {
+		width: 190px;
+		padding: 4px
+	}
+	.extra_col_img_info h4 {
+		margin-top: 0;
+		font-size: 23px
+	}
+	.banner_cont_new h2,
+	.texy_l_cont h2,
+	.tull_heading h2 {
+		font-size: 45px
+	}
+	.uniq_l_cont h2 {
+		font-size: 45px;
+		margin-top: 0
+	}
+	.tulli_extra_section {
+		padding: 40px 0 90px
+	}
+	.uniq_l_cont {
+		padding: 40px 0
+	}
+	.txy_sid_img {
+		padding: 5px
+	}
+	.texi_com_section {
+		padding: 45px 0
+	}
+	.wht_is_tull_section {
+		padding: 40px 0
+	}
+	.banner_cont_new span {
+		font-size: 18px
+	}
+	.wht_tull_cont h2 {
+		font-size: 45px
+	}
+	.footer_collaps_cols .col-md-3 {
+		float: left;
+		width: 25%
+	}
+	.owl_img {
+		height: 150px
+	}
+	.slider_img_content h4,
+	.tab_icon_title_sec h3,
+	.tab_icon_title_third h3 {
+		font-size: 20px
+	}
+	.pas_height p,
+	.pas_height_sec p {
+		font-size: 14px
+	}
+	.custmer_use_slider_info .owl-carousel .owl-wrapper-outer {
+		height: 510px
+	}
+	.tab_icon {
+		width: 65px
+	}
+	.text_tab {
+		font-size: 21px
+	}
+	.resp-tabs-list li {
+		padding: 10px 5px!important
+	}
+	.custmer_use_section,
+	.diffrent_section_info,
+	.how_it_work_section,
+	.testimonial_section_here,
+	.why_started_section {
+		padding: 40px 0
+	}
+	.resp_tabe .resp-tab-active {
+		border-top: 1px solid #74264e
+	}
+	.tab_icon img {
+		width: 35px;
+		height: 35px
+	}
+	.cont_img li img {
+		width: 50px
+	}
+	.cont_img li::after {
+		top: 24px
+	}
+	.tab_content_all {
+		background-position: 9% 75%;
+		height: 250px
+	}
+	.tab_img_title {
+		width: 45px;
+		margin-right: 15px
+	}
+	.tab_icon_title h3 {
+		font-size: 20px
+	}
+	.banner_content h2,
+	.section_head h2,
+	.section_head_sec h2,
+	.section_text h2 {
+		font-size: 45px
+	}
+	.car_an {
+		width: 75px
+	}
+	.diffr_secti_col .col-md-4:last-child .col_set_info {
+		margin-bottom: 0;
+		height: auto
+	}
+	.col_set_info {
+		height: 270px;
+		margin-bottom: 20px
+	}
+	.diff_col_icon img {
+		width: 70px
+	}
+	.section_head {
+		margin: 0 auto 60px
+	}
+	.slider_img {
+		height: 500px
+	}
+	.banner_content {
+		margin-top: 130px
+	}
+	.indicators_slide_set {
+		bottom: 225px!important
+	}
+	.banner_content p {
+		font-size: 16px
+	}
+	.container {
+		width: 100%
+	}
+	.navbar_logo img {
+		width: 194px
+	}
+    .navbar-fixed-top .navbar_set .navbar_logo {
+        padding: 15px 15px;
+    }
+	.carousel_arrow_set {
+		bottom: 175px;
+		height: 30px!important;
+		width: 30px!important
+	}
+	.indicators_slide_set li img {
+		width: 80px;
+		height: 80px
+	}
+	.indicators_slide_set .active,
+	.indicators_slide_set li {
+		width: auto;
+		height: auto;
+		margin: 0
+	}
+	.indicators_slide_set li {
+		float: left;
+		display: inline-block
+	}
+	.indicators_slide_set .active img {
+		width: 80px;
+		height: 80px
+	}
+	.img_bann_slider .left img,
+	.img_bann_slider .right img {
+		width: 8px
+	}
+	.head_first {
+		padding: 5px 0
+	}
+	.navbar-fixed-bottom .navbar-collapse,
+	.navbar-fixed-top .navbar-collapse {
+		max-height: 485px!important
+	}
+}
+
+@media only screen and (max-width:850px) {
+	.our_process_step_heading h4::after,
+	.our_process_step_heading_sec h4::after {
+		height: 5px;
+		top: 10px
+	}
+	.schedule_time_text {
+		font-size: 36px
+	}
+	.section_head {
+		margin: 0 auto 35px
+	}
+	.our_process_section {
+		padding: 25px 0
+	}
+	.our_process_step_heading_sec {
+		margin-bottom: 10px
+	}
+	.steps_detail_list {
+		margin-bottom: 15px;
+		padding-bottom: 10px
+	}
+	.steps_detail_list div {
+		font-size: 19px
+	}
+	.our_process_step_heading h4,
+	.our_process_step_heading_sec h4 {
+		font-size: 25px;
+		padding-bottom: 5px
+	}
+	.banner_content h2,
+	.banner_pricing h2,
+	.center_kid_blog h2,
+	.cont_us_header h3,
+	.down_header h1,
+	.que_comp_info h2,
+	.saf_quant_heading h2,
+	.section_head h2,
+	.section_text h2,
+	.service_provide_section h2,
+	.tch_tul_header h2,
+	.tull_heading h2,
+	.tulli_model_heading h2,
+	.uniq_l_cont h2,
+	.wht_tull_cont h2 {
+		font-size: 37px
+	}
+	.banner_content h2::after {
+		top: 18px
+	}
+	.banner_cont_new span::after {
+		top: 10px
+	}
+	.cont_us_header h3::after,
+	.que_comp_info h2::after,
+	.section_text h2::after,
+	.texy_l_cont h2::after,
+	.uniq_l_cont h2::after,
+	.wht_tull_cont h2::after {
+		top: 16px
+	}
+	.banner_cont_new h2 {
+		font-size: 37px;
+		margin-bottom: 10px
+	}
+	.section_text ul {
+		padding-left: 30px
+	}
+	.section_text ul li::after {
+		left: -28px;
+		width: 18px
+	}
+	.section_text ul li {
+		font-size: 15px
+	}
+	.tulli_extra_info .tu_extr_cols .tab_faq_info .resp-vtabs .resp-tabs-list li {
+		padding: 15px!important;
+		line-height: 21px
+	}
+	.pannel_service_set_sec .panel-heading a .glyphicon {
+		width: 30px;
+		height: 30px;
+		padding: 3px 8px;
+		top: 7px
+	}
+	.pannel_service_set_sec .panel-heading .panel-title .pan_title {
+		margin-left: 7px
+	}
+	.new_set_tab_here_sec {
+		padding-top: 0!important
+	}
+	.set_info_serv_pro p span {
+		font-size: 12px
+	}
+	.set_info_serv_pro p {
+		font-size: 13px
+	}
+	.tull_heading {
+		margin-bottom: 135px
+	}
+	.extra_col_img_info {
+		height: 370px
+	}
+	.texy_l_cont h2 {
+		font-size: 31px
+	}
+	.section_head {
+		width: 100%
+	}
+	p {
+		font-size: 15px!important
+	}
+	#myNavbar {
+		padding-left: 0!important
+	}
+	.family_ride_different_hading {
+		font-size: 25px
+	}
+	.family_ride_different {
+		font-size: 15px
+	}
+	.common_heading h2 {
+		font-size: 37px
+	}
+}
+
+@media only screen and (max-width:767px) {
+	.family_ride_img,
+	.rides_banner,
+	.rides_info {
+		margin-bottom: 20px
+	}
+	.resp-arrow,
+	.slid_over_no_back ul li:nth-child(3) {
+		display: none
+	}
+	.family_ride_different {
+		font-size: 15px!important
+	}
+	.navbar_link_set li a {
+		padding: 10px 20px
+	}
+	.navbar-nav .open .dropdown-menu {
+		padding: 0
+	}
+	.rides_tulii_details_list .col-md-6 {
+		float: left;
+		width: 50%
+	}
+	.rides_all_main_info {
+		float: left;
+		width: 100%;
+		border: 0;
+		padding: 0
+	}
+	.schol_heading h2,
+	.section_head_third h2 {
+		font-size: 35px
+	}
+	.web_col_blogs span {
+		font-size: 16px
+	}
+	.web_cols_count h1 {
+		font-size: 45px
+	}
+	.letget_section {
+		padding: 35px 0
+	}
+	.select_ride_app_img {
+		width: 65%
+	}
+	.any_whe_kid .col-md-6 {
+		float: left;
+		width: 50%
+	}
+	.service_aria_list {
+		width: 60%
+	}
+	.family_ride_img {
+		float: left;
+		width: 100%
+	}
+	.carpools_img_width {
+		width: 32%;
+		margin: 0 auto
+	}
+	.family_rid_im_new {
+		margin-bottom: 30px
+	}
+	.count_list_main {
+		margin-bottom: 25px
+	}
+	.family_ride_different_list ul>li {
+		font-size: 16px;
+		margin-bottom: 9px
+	}
+	.diff_info_text h4 {
+		font-size: 20px
+	}
+	.diffr_secti_col .custom_width_point_b:nth-child(4) {
+		height: 150px;
+		margin-bottom: 10px
+	}
+	.custom_width_point_b {
+		float: left;
+		width: 50%
+	}
+	.details_web_cont .col-md-4 {
+		height: 70px;
+		margin-bottom: 10px
+	}
+	.let_talk_phone_no {
+		font-size: 14px
+	}
+	.let_talk_phone_head {
+		font-size: 22px
+	}
+	.let_talk_phone_img_new i {
+		font-size: 60px
+	}
+	.your_kids_section {
+		padding: 30px 0
+	}
+	.ride_img_width_sec {
+		width: 160px
+	}
+	.apply_btn {
+		padding: 5px 35px;
+		font-size: 22px
+	}
+	.banner_service_form_respo {
+		height: auto!important;
+		margin-bottom: 65px
+	}
+	.serv_provide_form_set_here .col-md-6 {
+		float: left;
+		width: 50%
+	}
+	.tulii_cycle_img {
+		margin-top: 25px
+	}
+	.what_is_tulii_setion {
+		padding: 35px 0
+	}
+	.video_info .col-md-6 {
+		float: left;
+		width: 50%
+	}
+	.video_list_here .col-md-4 {
+		width: 50%
+	}
+	.main_vide_player iframe {
+		height: 220px
+	}
+	.main_vide_player::after {
+		font-size: 40px;
+		right: -3px;
+		bottom: 2px;
+		left: 19px;
+		line-height: 0;
+		transform-origin: left;
+		-webkit-transform-origin: left;
+		-moz-transform-origin: left;
+		-webkit-transform: rotate(91deg);
+		-ms-transform: rotate(91deg);
+		transform: rotate(91deg)
+	}
+	.main_vide_player {
+		margin-bottom: 15px
+	}
+	.carousel.slide.vertical {
+		height: 435px
+	}
+	.landing-owner3 .vertical .carousel-inner {
+		margin-top: 30px;
+		height: 340px
+	}
+	.inner-screen-mob {
+		left: 66px;
+		width: 191px;
+		top: 12px
+	}
+	.landing-owner3 .carousel-caption {
+		left: 325px;
+		width: 310px
+	}
+	#myCarousel .slide-pic img {
+		left: 45px;
+		width: 227px;
+		object-fit: fill;
+		height: 400px
+	}
+	.landing-owner3 ol.carousel-indicators {
+		top: 25%;
+		left: 0
+	}
+	.banner_slides_service {
+		padding: 10px 10px 25px
+	}
+	#sign_up_popup .modal-dialog {
+		width: 500px
+	}
+	.download_app_section {
+		padding: 40px 0 100px
+	}
+	.col_mobile_img img {
+		width: 230px
+	}
+	.mobil_app_cols .col-md-6 {
+		float: left;
+		width: 50%
+	}
+	.cont_icon img {
+		width: 50px
+	}
+	.cont_icon {
+		width: 20%
+	}
+	.col_cont_here {
+		width: 100%
+	}
+	.cont_us_details {
+		margin-bottom: 50px
+	}
+	.cont_info_sec p {
+		font-size: 18px!important
+	}
+	.banner_new_height_set {
+		height: 260px!important
+	}
+	.tulli_col_pricing .col-md-4 {
+		float: left;
+		width: 50%
+	}
+	.servic_provide_section {
+		padding: 40px 0 95px
+	}
+	.key_hirinf_col {
+		margin-bottom: 100px
+	}
+	.tu_extr_cols .col-md-4:last-child .key_hirinf_col {
+		margin-bottom: 0
+	}
+	.que_comp_btn_grp {
+		margin-left: 0;
+		margin-top: 15px;
+		float: left;
+		width: 100%
+	}
+	.banner_slides_service .col-md-4 {
+		float: left;
+		width: 50%
+	}
+	.banner_section_set_new_here {
+		height: 270px!important
+	}
+	.new_set_tab_here_sec .resp-accordion {
+		font-family: bignoodletitlingregular;
+		font-size: 21px;
+		letter-spacing: 1px;
+		margin-bottom: 10px;
+		border-radius: 3px;
+		padding: 13px 15px
+	}
+	.how_it_w_all_details .resp-tab-active::after,
+	.new_set_tab_here_sec .resp-tab-active::after {
+		content: "\f0d7 ";
+		text-align: center;
+		font-family: fontawesome;
+		bottom: -25px;
+		left: 0
+	}
+	.new_set_tab_here_sec h2.resp-accordion:first-child {
+		border-top: 1px solid #8ddff5!important
+	}
+	.new_set_tab_here_sec .resp-tab-active {
+		background-color: #7cd3ed!important;
+		padding: 13px 15px!important;
+		float: left;
+		width: 100%;
+		position: relative
+	}
+	.new_set_tab_here_sec .resp-accordion {
+		border: 1px solid #8ddff5!important;
+		background-color: #d7eef4;
+		float: left;
+		width: 100%
+	}
+	.pannel_service_set_sec {
+		background: 0 0;
+		float: left;
+		width: 100%
+	}
+	.new_set_tab_here_sec {
+		float: left!important;
+		width: 100%!important;
+		padding: 0!important
+	}
+	.new_set_tab_here_sec .panel-group .panel+.panel {
+		margin-top: 0
+	}
+	.pannel_service_set_sec .panel-heading {
+		width: 100%
+	}
+	.new_set_tab_here_sec .resp-tab-active::after {
+		font-size: 38px;
+		position: absolute;
+		color: #7cd3ed;
+		right: 0
+	}
+	.tab_faq_info .resp-tab-content {
+		background-color: #eaf3f6;
+		float: left;
+		width: 100%;
+		margin-bottom: 10px
+	}
+	.servi_prov_head h2 {
+		font-size: 40px
+	}
+	.slid_over_no_back li {
+		width: 50%
+	}
+	.slid_over_no_back li::before {
+		width: 38%;
+		right: -1px
+	}
+	.slid_over_no_back li::after {
+		width: 38%
+	}
+	.tech_info_col .col-md-3:nth-child(3) .tech_col_dem {
+		margin-bottom: 45px
+	}
+	.tech_info_col .col-md-3 {
+		width: 50%;
+		float: left
+	}
+	.saf_quant_heading span {
+		font-size: 19px
+	}
+	.banner_section_new_here {
+		height: 310px!important
+	}
+	.more_unique_section::after {
+		position: relative;
+		height: 285px;
+		float: left;
+		width: 100%
+	}
+	.texy_l_cont {
+		margin-bottom: 30px
+	}
+	.tull_heading {
+		margin-bottom: 100px
+	}
+	.extr_col_img {
+		margin-top: -73px
+	}
+	.extra_col_details {
+		margin-bottom: 75px
+	}
+	.extr_col_img img {
+		width: 140px
+	}
+	.extra_col_img_info {
+		height: auto
+	}
+	.tu_extr_cols .col-md-4 {
+		width: 50%;
+		float: left
+	}
+	.tu_extr_cols .col-md-4:last-child .extra_col_details {
+		margin-bottom: 0
+	}
+	.tu_extr_cols .col-md-4:first-child .extra_col_details,
+	.tu_extr_cols .col-md-4:nth-child(2) .extra_col_details {
+		height: 280px
+	}
+	.banner_section_sec {
+		height: 360px
+	}
+	.left_kids_titl_care {
+		width: 100%
+	}
+	.tak_car_kids_section::after {
+		width: 100%;
+		border-radius: 0
+	}
+	.cont_img li::after {
+		z-index: 1
+	}
+	.car_an {
+		width: 60px
+	}
+	.cont_img li img {
+		z-index: 11;
+		position: relative
+	}
+	.car_annimation {
+		margin-top: 60px
+	}
+	.tab_content_all {
+		height: 235px
+	}
+	.text_tab {
+		margin-top: 5px;
+		float: left
+	}
+	.tab_set_d {
+		float: none;
+		width: auto;
+		text-align: center;
+		margin: 0 auto;
+		display: inline-block
+	}
+	.how_it_w_all_details {
+		padding: 0 15px
+	}
+	.how_it_w_all_details .resp-tab-content {
+		background-color: #eaf3f6;
+		float: left;
+		width: 100%;
+		margin-bottom: 10px
+	}
+	.tab_icon_title,
+	.tab_icon_title_sec,
+	.tab_icon_title_third {
+		width: 100%
+	}
+	.how_it_w_all_details .resp-accordion {
+		float: left;
+		width: 100%;
+		text-align: center;
+		background-color: #d7eef4;
+		border: 1px solid #8ddff5;
+		margin-bottom: 10px;
+		border-radius: 4px
+	}
+	.how_it_w_all_details .resp-tab-active {
+		background: #7cd3ed!important;
+		color: #fff;
+		position: relative
+	}
+	.how_it_w_all_details .resp-tab-active::after {
+		font-size: 38px;
+		position: absolute;
+		color: #7cd3ed;
+		right: 0
+	}
+	.how_it_w_all_details .resp-accordion:first-child {
+		border-top: 1px solid #8ddff5!important
+	}
+	.col_set_info {
+		height: auto;
+		margin-bottom: 40px
+	}
+	.navbar_logo {
+		padding: 10px 15px
+	}
+	.navbar_meu_link {
+		width: 100%;
+		text-align: left
+	}
+	.navbar_link_set {
+		margin: 0;
+		width: 100%
+	}
+	.responsive_none {
+		padding: 0;
+		float: left;
+		width: 100%
+	}
+	.navbar-fixed-top .navbar_set .collapse .navbar_link_set li a {
+		padding: 10px 20px
+	}
+	.main_vide_player iframe {
+		float: left;
+		width: 100%;
+		object-fit: fill;
+		object-position: center;
+		display: block;
+		max-width: 100%
+	}
+}
+
+@media only screen and (max-width:739px) {
+	.que_comp_info h2 {
+		margin-top: 0
+	}
+}
+
+@media only screen and (max-width:710px) {
+	#myCarousel .slide-pic img {
+		left: 25px
+	}
+	.inner-screen-mob {
+		left: 45px
+	}
+	.landing-owner3 .carousel-caption {
+		left: 265px
+	}
+}
+
+@media only screen and (max-width:640px) {
+	.main_vide_player {
+		float: left;
+		width: 100%!important;
+		overflow: hidden
+	}
+	.main_vide_player iframe {
+		width: 100%!important;
+		padding: 0!important;
+		border: 0!important
+	}
+	.tabs_star_rat h1 {
+		font-size: 65px
+	}
+	.common_section_set {
+		width: 100%;
+		float: left
+	}
+	.common_section_details {
+		padding-bottom: 10px
+	}
+	.family_ride_different_list {
+		margin-bottom: 20px
+	}
+	.any_whe_kid .col-md-6 {
+		width: 100%
+	}
+	.ride_img_width {
+		width: 175px
+	}
+	.slider_img {
+		height: 370px
+	}
+	.indicators_slide_set {
+		display: none;
+		bottom: 140px!important
+	}
+	.testim .cont div .img img {
+		width: 89px;
+		height: 89px
+	}
+	.port_f_img {
+		width: 100px;
+		height: 100px
+	}
+	.input_set input {
+		height: 35px
+	}
+	.video_info .col-md-6 {
+		width: 100%
+	}
+	.video_info .col-md-6:first-child .main_vide_player {
+		margin-bottom: 35px
+	}
+	.video_details h2 {
+		font-size: 25px
+	}
+	.video_list_heading {
+		font-size: 27px
+	}
+	.video_heading {
+		font-size: 30
+	}
+	.video_content_info h4 {
+		font-size: 18px
+	}
+	.video_img::before {
+		height: 45px;
+		width: 45px;
+		font-size: 21px;
+		padding-left: 13px
+	}
+	#myCarousel .slide-pic img {
+		left: 0;
+		margin: 0 auto;
+		text-align: center;
+		right: 0;
+		display: inline-block
+	}
+	.inner-screen-mob {
+		left: 0!important;
+		right: 0!important;
+		text-align: center!important;
+		margin: 0 auto!important;
+		display: inline-block!important
+	}
+	.landing-owner3 .carousel.vertical .item {
+		float: none
+	}
+	.landing-owner3 ol.carousel-indicators {
+		left: 95px
+	}
+	.landing-owner3 .carousel-caption {
+		display: none
+	}
+	.price_circle {
+		height: 130px;
+		width: 130px;
+		padding: 10px;
+		margin-top: -80px
+	}
+	.down_header h1,
+	.price_circle h1 {
+		font-size: 33px
+	}
+	.price_circle span {
+		font-size: 13px
+	}
+	.price_info_details h3 {
+		font-size: 24px
+	}
+	.price_info_details ul li {
+		height: 5px;
+		width: 5px;
+		margin: 3px
+	}
+	.que_comp_info h2 {
+		margin-top: 0
+	}
+	.tech_info_img img {
+		width: 60px;
+		height: 60px;
+		object-fit: contain
+	}
+	.tech_info_img {
+		margin-bottom: 10px
+	}
+	.safe_info_blogs h4 {
+		font-size: 22px
+	}
+	.safe_info_blogs::after {
+		width: 29px;
+		height: 29px
+	}
+	.safe_info_blogs {
+		padding-left: 37px
+	}
+	.rides_text_details {
+		padding: 10px
+	}
+	.rides_text_de_info h4 {
+		font-size: 18px;
+		margin-bottom: 5px
+	}
+	.que_comp_info h2,
+	.service_provide_section h2 {
+		font-size: 40px
+	}
+	.rides_text_de_info p {
+		margin-top: 5px!important
+	}
+	.rides_text_de_info {
+		height: 290px
+	}
+	.question_comp {
+		padding: 20px 0 100px
+	}
+	.fi_after::after,
+	.five_after::after,
+	.four_after::after,
+	.sec_after::after,
+	.thir_after::after {
+		height: 30px;
+		width: 30px;
+		font-size: 20px;
+		padding: 6px;
+		left: -7px;
+		top: -4px
+	}
+	.pannel_service_set {
+		float: left;
+		width: 100%;
+		margin-bottom: 10px!important
+	}
+	.pan_title {
+		font-size: 19px
+	}
+	.foot_logo_here {
+		padding: 10px
+	}
+	.foot_logo_here img {
+		width: 160px
+	}
+	.socila_link li a {
+		padding: 15px
+	}
+	.socila_link {
+		margin-top: 5px
+	}
+	.footer_collaps_cols .col-md-3 {
+		float: left;
+		width: 50%
+	}
+	.footer_collaps_cols .col-md-3:first-child,
+	.footer_collaps_cols .col-md-3:nth-child(2) {
+		margin-bottom: 15px
+	}
+	.footer_collaps_cols .col-md-3:nth-child(2) .foot_link_here {
+		border-right: 0
+	}
+	.testim .cont div p {
+		font-size: 14px
+	}
+	.testim .cont div h2 {
+		font-size: 25px
+	}
+	.arrow img {
+		width: 15px
+	}
+	.slider_img_content h4 {
+		letter-spacing: 1px;
+		margin-top: 0
+	}
+	.section_head_sec h2 {
+		font-size: 40px
+	}
+	.banner_content {
+		margin-top: 40px;
+		width: 100%
+	}
+	.indicators_slide_set .active img,
+	.indicators_slide_set li img {
+		width: 60px;
+		height: 60px
+	}
+	.carousel_arrow_set {
+		bottom: 105px
+	}
+	.left.carousel_arrow_set {
+		margin-right: 10px
+	}
+	.scroll-btn .mouse {
+		width: 21px;
+		height: 35px
+	}
+	.scroll-btn .mouse>* {
+		left: 59%
+	}
+	.main_vide_player iframe {
+		float: left;
+		object-fit: fill;
+		object-position: center;
+		display: block;
+		max-width: 100%
+	}
+}
+
+@media only screen and (max-width:560px) {
+	.block-title {
+		font-size: 35px
+	}
+	.service-areas__text {
+		font-size: 16px
+	}
+	.tab_conetn_custom {
+		margin-top: 7px
+	}
+	.school_tabin_div .nav li {
+		text-align: center;
+		width: 33.3%;
+		margin-right: 0
+	}
+	.school_tabin_div .nav li a {
+		font-size: 22px
+	}
+	.service_aria_list {
+		width: 100%
+	}
+	.our_process_link div span {
+		width: 150px
+	}
+	.our_process_link div h4 {
+		margin-top: 16px
+	}
+}
+
+@media only screen and (max-width:540px) {
+	.school_tabin_div .nav .active a,
+	.school_tabin_div .nav .active a:focus,
+	.school_tabin_div .nav .active a:hover {
+		background-color: #e64097;
+		color: #fff
+	}
+	.count_step_app::after,
+	.count_step_app::before,
+	.count_step_app_therd::after,
+	.count_step_app_therd::before,
+	.slid_over_no_back ul li:nth-child(2),
+	.tab_icon_title .tab_img_title,
+	.tab_icon_title_sec .tab_img_title,
+	.tab_icon_title_third .tab_img_title {
+		display: none
+	}
+	.status_pass::after {
+		top: -43px;
+		left: -15px
+	}
+	.gradient_overlay {
+		background-image: linear-gradient(to top, transparent, #000 500px)
+	}
+	.family_ride_different_list {
+		padding-left: 25px
+	}
+	.service_aria_list ul {
+		padding-left: 20px
+	}
+	.service_aria_list ul li::after {
+		left: -17px;
+		top: 1px;
+		font-size: 18px
+	}
+	.service_aria_list ul li {
+		font-size: 15px
+	}
+	.section_head_third h2 {
+		font-size: 26px
+	}
+	.schol_heading h2 {
+		font-size: 27px
+	}
+	.web_cols_count h1 {
+		font-size: 35px
+	}
+	.web_col_blogs span {
+		font-size: 13px
+	}
+	.rides_deatilas_section .rides_tulii_details_list:last-child {
+		margin-bottom: 0
+	}
+	.rides_tulii_details_list .col-md-6 {
+		width: 100%
+	}
+	.rides_deatilas_section .tull_heading_new {
+		margin-bottom: 25px
+	}
+	.rides_info h3 {
+		font-size: 22px
+	}
+	.ready_partner_head h1 {
+		font-size: 35px;
+		margin: 0
+	}
+	.tull_heading_new h2 {
+		font-size: 30px;
+		margi n: 0
+	}
+	#myTabContent2 #menu2-sec img {
+		max-width: 200px
+	}
+	.school_tabin_div .nav .active a {
+		border-radius: 4px
+	}
+	.school_tabin_div .nav li {
+		width: 30%;
+		border: 0!important
+	}
+	.seles_form_set {
+		width: 100%;
+		margin-left: 0
+	}
+	.family_ride_different_list ul>li {
+		font-size: 15px;
+		margin-bottom: 0
+	}
+	.schedule_time_text {
+		font-size: 25px;
+		margin-bottom: 10px
+	}
+	.family_ride_different_list ul>li::before {
+		font-size: 19px
+	}
+	.count_step_app,
+	.count_step_app_therd {
+		font-size: 22px
+	}
+	.your_kids_section {
+		padding: 20px 0
+	}
+	.carpools_img_width {
+		width: 65%
+	}
+	.diff_info_text h4 {
+		font-size: 18px
+	}
+	.diffr_secti_col .custom_width_point_b {
+		width: 100%;
+		height: auto;
+		margin-bottom: 15px
+	}
+	.you_kids_rid_list .col-md-6:last-child .family_ride_img {
+		margin-bottom: 0
+	}
+	.common_heading h2 {
+		font-size: 28px
+	}
+	.let_talk_phone_img_new i {
+		font-size: 55px
+	}
+	.let_talk_phone_img i {
+		margin-top: 10px;
+		font-size: 30px
+	}
+	.details_web_cont {
+		margin-top: 0
+	}
+	.details_web_cont .col-md-4 {
+		width: 100%
+	}
+	.ride_img_width_sec {
+		width: 110px
+	}
+	.you_kids_rid_list {
+		margin-bottom: 10px
+	}
+	.family_ride_different_hading {
+		font-size: 20px
+	}
+	.family_ride_img {
+		width: 100%;
+		margin-bottom: 20px
+	}
+	.you_kids_rid_list .col-md-6 {
+		width: 100%
+	}
+	.slider_img {
+		background-position: center
+	}
+	.apply_btn {
+		padding: 3px 25px;
+		font-size: 18px
+	}
+	.our_process_step_heading {
+		margin-bottom: 7px
+	}
+	.our_process_link {
+		margin-bottom: 20px
+	}
+	.our_process_link div span {
+		width: 30%
+	}
+	.our_process_link div h4 {
+		font-family: latomedium;
+		font-size: 12px;
+		width: 65%
+	}
+	.extra_col_img_info h4,
+	.our_process_step_heading h4 {
+		font-size: 19px
+	}
+	.serv_provide_form_set_here .col-md-6,
+	.video_list_here .col-md-4 {
+		width: 100%
+	}
+	.video_data {
+		margin-top: -120px;
+		padding: 10px
+	}
+	.video_img {
+		height: 165px
+	}
+	.main_vide_player iframe {
+		height: 210px
+	}
+	.video_heading {
+		margin-bottom: 10px
+	}
+	.video_player_blog {
+		height: auto;
+		margin-bottom: 15px
+	}
+	.video_img::before {
+		top: 60px
+	}
+	.landing-owner3 {
+		padding: 20px 0
+	}
+	.landing-owner3 ol.carousel-indicators {
+		top: 20%;
+		left: 0
+	}
+	.our_services_blog .item {
+		margin: 5px
+	}
+	.cont_info p,
+	.our_ptners_info {
+		margin-top: 10px
+	}
+	.our_partners {
+		padding: 35px 0 80px
+	}
+	.cont_info_sec a p {
+		margin-top: 20px
+	}
+	.cont_info,
+	.cont_info_sec {
+		padding: 12px;
+		height: 80px
+	}
+	.cont_icon {
+		height: 80px
+	}
+	.col_cont_here .cont_info p,
+	.cont_info_sec a p {
+		font-size: 15px!important
+	}
+	.cont_us_header {
+		margin-bottom: 15px
+	}
+	.input_box_set_new,
+	.send_massge_btn {
+		text-align: center
+	}
+	.scrollTop {
+		padding: 2px 7px;
+		bottom: 35px
+	}
+	.scrollTop span i {
+		line-height: 35px;
+		font-size: 30px
+	}
+	.banner_cont_new .btn {
+		padding: 9px 15px
+	}
+	.close img {
+		width: 28px
+	}
+	.popups_web_downloads_zone span {
+		margin-bottom: 10px
+	}
+	#sign_up_popup .modal-dialog {
+		width: 400px
+	}
+	.banner_cont_new span::after,
+	.banner_content h2::after,
+	.que_comp_info h2::after,
+	.section_text h2::after,
+	.texy_l_cont h2::after,
+	.uniq_l_cont h2::after,
+	.wht_tull_cont h2::after {
+		top: 11px;
+		height: 3px
+	}
+	.cont_us_header h3::after {
+		top: 15px;
+		height: 3px
+	}
+	.loader img {
+		width: 145px
+	}
+	.down_header h5 {
+		font-size: 22px
+	}
+	.download_btn .btn:last-child {
+		margin-left: 0
+	}
+	.col_mobile_img {
+		box-shadow: 0 0 8px -2px #a5a0a0;
+		margin-bottom: 45px
+	}
+	.mobil_app_cols .col-md-6 {
+		width: 100%
+	}
+	.mobil_app_cols .col-md-6:last-child .col_mobile_img {
+		margin-bottom: 0
+	}
+	.cont_icon {
+		width: 20%
+	}
+	.cont_info,
+	.cont_info_sec {
+		width: 80%
+	}
+	.cont_info p,
+	.cont_info_sec p {
+		font-size: 17px!important
+	}
+	.cont_icon img {
+		margin-top: 10px;
+		width: 40px
+	}
+	.banner_slides_service .col-md-4,
+	.slid_over_no_back li,
+	.tulli_col_pricing .col-md-4 {
+		width: 100%
+	}
+	.pric_col {
+		margin-bottom: 90px
+	}
+	.tulli_model_heading {
+		margin-bottom: 95px
+	}
+	.key_hi_img_info,
+	.price_info_details {
+		height: auto
+	}
+	.tulli_model_heading h2 {
+		font-size: 25px
+	}
+	.question_comp {
+		padding: 20px 0 95px
+	}
+	.safe_blog_content {
+		font-size: 15px
+	}
+	.rides_text_de_info h4 {
+		letter-spacing: 1px
+	}
+	.rides_text_de_info {
+		height: 290px
+	}
+	.rides_text_details {
+		margin-bottom: 15px
+	}
+	.pannel_service_set_sec .panel-heading .panel-title .pan_title {
+		font-size: 20px;
+		letter-spacing: 1px;
+		margin-left: 1px
+	}
+	.pannel_service_set_sec .panel-heading a .glyphicon {
+		top: 3px
+	}
+	.pannel_service_set_sec .panel-collapse .panel-body {
+		padding-left: 50px;
+		width: 100%
+	}
+	.faq_que_section {
+		padding: 40px 0 90px
+	}
+	.banner_pricing h2 {
+		font-size: 30px
+	}
+	.service_provide_section h2 {
+		font-size: 25px
+	}
+	.set_info_serv_pro {
+		height: 250px
+	}
+	.service_pro_section {
+		padding: 40px 0 100px
+	}
+	.font_si_p {
+		font-size: 14px
+	}
+	.cont_us_header h3 {
+		font-size: 30px
+	}
+	.center_kid_blog h2,
+	.servi_prov_head h2 {
+		font-size: 25px
+	}
+	.kids_group_not h4 {
+		font-size: 23px
+	}
+	.banner_cont_new h2,
+	.saf_quant_heading h2,
+	.tch_tul_header h2,
+	.tull_heading h2,
+	.uniq_l_cont h2,
+	.wht_tull_cont h2 {
+		font-size: 25px
+	}
+	.slid_over_no_back li::before {
+		width: 43%;
+		right: -1px
+	}
+	.slid_over_no_back li::after {
+		width: 43%
+	}
+	.cont_us_btn {
+		padding: 7px 25px
+	}
+	.que_comp_info h2 {
+		font-size: 25px;
+		width: 100%
+	}
+	.tech_info_col .col-md-3 {
+		width: 100%;
+		float: left
+	}
+	.owl_multiple_info_text .owl-controls .owl-buttons .owl-next,
+	.owl_multiple_info_text .owl-controls .owl-buttons .owl-prev,
+	.owl_serv_prov_slid_new .owl-controls .owl-buttons .owl-next,
+	.owl_serv_prov_slid_new .owl-controls .owl-buttons .owl-prev {
+		height: 30px;
+		width: 30px;
+		background-size: 9px
+	}
+	.fi_after::after,
+	.five_after::after,
+	.four_after::after,
+	.sec_after::after,
+	.thir_after::after {
+		left: -13px
+	}
+	.pannel_service_set {
+		margin-bottom: 5px!important
+	}
+	.pan_title {
+		margin-left: 32px
+	}
+	.banner_section_new_here {
+		height: 270px!important
+	}
+	.tull_heading {
+		margin-bottom: 85px
+	}
+	.tu_extr_cols .col-md-4 {
+		width: 100%
+	}
+	.tu_extr_cols .col-md-4 .extra_col_details {
+		height: auto!important
+	}
+	.socila_link {
+		margin-top: 20px;
+		width: 100%
+	}
+	.socila_link li a {
+		padding: 10px;
+		width: 40px
+	}
+	.socila_link li a i {
+		font-size: 17px
+	}
+	.footer_collaps_cols {
+		padding: 10px 0
+	}
+	.foot_link_here {
+		border-right: 0!important
+	}
+	.footer_collaps_cols .col-md-3 {
+		float: left;
+		width: 100%;
+		margin-bottom: 0!important
+	}
+	.left_kids_titl_care h2 {
+		font-size: 31px;
+		margin-bottom: 5px
+	}
+	.android_btn,
+	.appl_btn {
+		padding: 5px 15px
+	}
+	.android_btn i,
+	.appl_btn i {
+		font-size: 21px
+	}
+	.right_kids_care_btn .btn:last-child {
+		margin: 0
+	}
+	.left_kids_titl_care p {
+		font-size: 17px
+	}
+	.custmer_use_slider_info .owl-theme .owl-controls .owl-page span {
+		width: 12px!important;
+		height: 12px!important;
+		margin: 5px!important
+	}
+	.tab_content_all {
+		height: 169px;
+		background-position: left bottom;
+		background-size: 740px;
+		overflow: hidden
+	}
+	.tab_icon_title h3,
+	.tab_icon_title_sec h3,
+	.tab_icon_title_third h3 {
+		font-size: 16px!important
+	}
+	.tab_title .col-md-12 {
+		padding: 0 5px
+	}
+	.car_annimation {
+		margin-top: 43px
+	}
+	.cont_img li img {
+		width: 40px
+	}
+	.cont_img li::after {
+		top: 20px
+	}
+	.how_it_w_all_details {
+		padding: 0 10px
+	}
+	.testim .wrap {
+		padding: 20px 0 55px
+	}
+	.testim .arrow.left {
+		left: 0
+	}
+	.testim .arrow.right {
+		right: 0
+	}
+	.testim .cont div p {
+		width: 80%;
+		line-height: 15px
+	}
+	.custmer_use_slider_info .owl-carousel .owl-wrapper-outer {
+		height: 520px
+	}
+	.slider_info_details {
+		height: 250px
+	}
+	.section_head_sec {
+		width: 100%;
+		margin: 0 auto 20px
+	}
+	.section_head h2,
+	.section_head_sec h2 {
+		margin-bottom: 5px;
+		font-size: 25px
+	}
+	.tab_img_title {
+		width: 35px
+	}
+	.slider_img {
+		height: 450px
+	}
+	.tab_icon_title h3,
+	.tab_icon_title_sec h3,
+	.tab_icon_title_third h3 {
+		float: left;
+		width: 100%;
+		margin-top: 8px;
+		line-height: 21px
+	}
+	.section_best_cycle_details,
+	.sid_img_info {
+		margin-top: 20px
+	}
+	.banner_content h2 {
+		font-size: 25px
+	}
+	.section_text h2 {
+		font-size: 25px
+	}
+	.carousel_arrow_set {
+		bottom: 58px
+	}
+	.indicators_slide_set {
+		bottom: 90px!important
+	}
+	.left.carousel_arrow_set {
+		right: 50px
+	}
+	.banner_content .btn {
+		padding: 8px 15px;
+		font-size: 14px
+	}
+	.back_con_color::after,
+	.back_con_color::before {
+		width: 43%
+	}
+	.tulii_new_cycle_im_set {
+		width: 100%
+	}
+}
+
+@media only screen and (max-width:500px) {
+	.school_tabin_div .nav li {
+		width: 50%
+	}
+}
+
+@media only screen and (max-width:480px) {
+	.header_top_links {
+		text-align: center;
+		display: grid
+	}
+	.left_link_for_first {
+		float: none;
+		width: auto;
+		display: inline-flex;
+		margin: 0 auto 7px
+	}
+	.right_link_for_first {
+		float: none;
+		width: auto;
+		display: inline-flex;
+		margin: 0 auto
+	}
+}
+
+@media only screen and (max-width:440px) {
+	.our_process_link div span {
+		margin-right: 12px
+	}
+	.our_process_link div h4 {
+		margin-top: 10px
+	}
+	.download_btn .btn,
+	.right_kids_care_btn .btn {
+		margin-bottom: 5px!important
+	}
+	.appl_btn {
+		margin-right: 5px
+	}
+	.back_con_color::after,
+	.back_con_color::before {
+		width: 42%
+	}
+	.our_partners {
+		padding: 35px 0 95px
+	}
+	.android_btn_new,
+	.appl_btn_new {
+		padding: 3px 10px;
+		font-size: 18px
+	}
+	.popups_web_downloads_zone {
+		padding-bottom: 0
+	}
+	.pops_or_set {
+		font-size: 17px
+	}
+	.input_forms_set {
+		margin-bottom: 10px
+	}
+	.popups_content {
+		margin-top: 0
+	}
+	.popups_forms {
+		margin-top: 8px;
+		float: left;
+		width: 100%
+	}
+	.popup_heading h2 {
+		font-size: 30px;
+		margin-bottom: 2px
+	}
+	.popu_web_info_link {
+		font-size: 14px
+	}
+	.popup_heading h4 {
+		font-size: 14px;
+		line-height: 16px;
+		padding-bottom: 10px
+	}
+	.popups_btn {
+		font-size: 23px
+	}
+	#sign_up_popup .modal-dialog {
+		width: 290px
+	}
+	.slid_over_no_back li::before {
+		width: 41%;
+		right: -1px
+	}
+	.slid_over_no_back li::after {
+		width: 40%
+	}
+	.pannel_service_set .panel-heading a .glyphicon {
+		padding: 1px 5px;
+		width: 25px;
+		height: 25px
+	}
+	.fi_after::after {
+		top: 3px
+	}
+	.four_after::after,
+	.sec_after::after,
+	.thir_after::after {
+		top: 1px
+	}
+	.five_after::after {
+		top: -4px
+	}
+	.pan_title {
+		margin-left: 24px
+	}
+	.how_it_w_all_details .resp-tab-active::after {
+		font-size: 30px;
+		bottom: -19px
+	}
+	.how_it_w_all_details .resp-accordion {
+		padding: 10px!important;
+		text-align: left
+	}
+	.tab_icon img {
+		margin: inherit;
+		width: 27px;
+		height: 27px;
+		object-position: center
+	}
+	.tab_icon {
+		width: auto;
+		margin-right: 5px
+	}
+	.text_tab {
+		font-size: 18px
+	}
+	.pan_title {
+		width: 90%;
+		font-size: 17px
+	}
+}
+
+@media only screen and (max-width:400px) {
+	.left_link_for_first span a,
+	.soci_down span:first-child {
+		font-size: 12px
+	}
+	.web_col_blogs span {
+		float: left;
+		width: 100%
+	}
+	.img_right_div img,
+	.img_right_div_sec img {
+		width: 15px;
+		margin-right: 6px
+	}
+	.mail_span {
+		margin-right: 8px;
+		padding-right: 8px
+	}
+	.mail_span a img {
+		width: 18px;
+		margin-top: 5px;
+		margin-right: 3px
+	}
+	.web_m_set a img {
+		width: 16px
+	}
+}
+
+@media only screen and (max-width:360px) {
+	.our_process_link div h4 {
+		margin-top: 0
+	}
+}
